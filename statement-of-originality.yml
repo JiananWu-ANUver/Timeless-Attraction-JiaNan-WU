@@ -1,0 +1,42 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: Tears_of_Joy by David_Fesliyan
+    url: https://www.fesliyanstudios.com/royalty-free-music/download/tears-of-joy/223
+    licence: Royalty free
+
+  - comment: A_New_Day_Is_Coming by David_Fesliyan
+    url: https://www.fesliyanstudios.com/royalty-free-music/download/a-new-day-is-coming/112
+    licence: Royalty free
+
+  - comment: Classic_Love_Scene by Steve_Oxen
+    url: https://www.fesliyanstudios.com/royalty-free-music/download/classic-love-scene/1348
+    licence: Royalty free
+
+  - comment: steam-train
+    url: https://www.myinstants.com/instant/steam-train-41244/
+    licence: Royalty-free
+
+  - comment: digital-7
+    url: https://www.dafont.com/digital-7.font
+    licence: free for personal use
+
+  - comment: old_london
+    url: https://www.myinstants.com/instant/steam-train-41244/
+    licence: 100% free
+
+  - comment: techno_board
+    url: https://www.myinstants.com/instant/steam-train-41244/
+    licence: free for personal use
+    
+
+# sign *your* name and uid here
+name: Jianan Wu
+uid: u7076110
