@@ -1,8 +1,1 @@
-# COMP1720/6720 major project template
-
-https://cs.anu.edu.au/courses/comp1720/assessments/05-major-project/
-
-
-This is the big one! Make sure you read the assignment page carefully, and if you have questions then ask for help early on Discourse.
-
-Good luck, we're looking forward to seeing what you create.
+This is a short 2 mins artwork made by myself by using JavaScript and some personal hand drawing 2D images, the story is following the main topic timeless attractions and my personal answer is that the human imagination about future is always the timeless attraction to all of us
